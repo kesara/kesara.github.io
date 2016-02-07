@@ -10,9 +10,12 @@ permalink: /projects/
 It supports JPEG creation, Animated GIF creation and video creation in MP4 format.
 
 For example [Deep Dreamer][deepdreamer] can convert image like this:
-![Original](https://farm8.staticflickr.com/7233/7167040599_cf7c835c77_z_d.jpg)
+![Original JPEG](/images/deepdreamer_original_a.jpg)
 
 Into image like this:
-![deepdream](https://i.imgur.com/Auikelk.jpg)
+![Deepdream JPEG](/images/deepdreamer_dream_aa.jpg)
+
+Or gif like this:
+![Deepdream GIF](/images/deepdreamer_dream_ab.gif)
 
 [deepdreamer]: https://github.com/kesara/deepdreamer
