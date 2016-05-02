@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: "About frquency (fq.nz)."
 permalink: /about/
 ---
 

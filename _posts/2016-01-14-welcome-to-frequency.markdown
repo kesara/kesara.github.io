@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Welcome to frequency"
+description: "Welcome to frquency, another Jekyll blog."
 date:   2016-01-14 23:37:51
 categories: jekyll update
 ---
