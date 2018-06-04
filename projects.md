@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Projects
-description: "My projects"
-permalink: /projects/
+layout:         page
+title:          Projects
+description:    "My projects"
+permalink:      /projects/
+image:          /images/deepdreamer_dream_aa.jpg
 ---
 
 ## [Deep Dreamer][deepdreamer]

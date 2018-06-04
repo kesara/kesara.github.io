@@ -1,9 +1,10 @@
 ---
-layout: post
-title:  "Journey with Wayland and Sway"
-description: "I tried out Wayland with Sway windows manager."
-date:   2016-08-01 23:23:23
-categories: wayland sway linux parabola
+layout:         post
+title:          "Journey with Wayland and Sway"
+description:    "I tried out Wayland with Sway windows manager."
+date:           2016-08-01 23:23:23
+categories:     wayland sway linux parabola
+image:          /images/2016-08-01-230023_swaygrab.png
 ---
 [Wayland][wayland] is the new *better* windowing protocol for Linux which is
 supposed to replace X11 windowing system. It's still in beta stage. I decided
