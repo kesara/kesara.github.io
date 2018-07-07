@@ -14,5 +14,5 @@ Lot has been changed on it's main dependency Caffee since Deep Dreamer's last
 update. This release [0.0.2a](release) is all about making sure it works with
 Caffee 1.0.0 and Python 3. This release will not work under Python 2.7.
 
-[deepdreamer]:  https://github.com/kesara/deepdreamer/
+[deepdreamer]:  https://deepdreamer.fq.nz/
 [release]:      https://github.com/kesara/deepdreamer/releases/tag/v0.0.2a

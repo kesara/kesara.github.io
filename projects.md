@@ -20,4 +20,4 @@ Into image like this:
 Or gif like this:
 ![Deepdream GIF](/images/deepdreamer_dream_ab.gif)
 
-[deepdreamer]: https://github.com/kesara/deepdreamer
+[deepdreamer]: https://deepdreamer.fq.nz/
