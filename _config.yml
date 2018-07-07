@@ -13,3 +13,8 @@ github_username:  kesara
 
 # Build settings
 markdown: kramdown
+timezone: Pacific/Auckland
+
+collections:
+    projects:
+        output: true

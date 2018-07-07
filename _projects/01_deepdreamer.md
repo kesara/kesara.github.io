@@ -1,8 +1,8 @@
 ---
 layout:         page
-title:          Projects
-description:    "My projects"
-permalink:      /projects/
+title:          DeepDreamer
+description:    About DeepDreamer free open source software (FOSS) project
+permalink:      /projects/deepdreamer
 image:          /images/deepdreamer_dream_aa.jpg
 ---
 
