@@ -4,7 +4,7 @@ title:        "My JS13KGames 2018 Entry: 13Kars"
 description:  "I made a simple car game for JS13KGames 2018."
 date:         2018-08-29 21:21:21
 categories:   javascript js js13k game foss
-image:        /images/2018-08-30-13kars.png
+image:        /images/2018-08-29-13kars.png
 ---
 **[JS13K Games][js13k]** is a JavaScript coding competition that limits your
 game file size to 13 kilobytes. Theme for this year is **offline** even thought
@@ -21,7 +21,7 @@ I used [Kontra.js][kontra], a lightweight JavaScript game engine. Rest of the
 code is pure JavaScript, CSS and HTML5. Since I had enough space to include
 some sound effects, I used [jsfxr][jsfxr] to generate them.
 
-[![13Kars](/images/2018-08-30-13kars.png "13Kars")][13kars]
+[![13Kars](/images/2018-08-29-13kars.png "13Kars")][13kars]
 
 ## Takeaways
 With all those fancy game engines it is really easy to start developing games.
