@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "Deep Dreamer in New Zealand Open Source Awards finalists"
+title:        "Deep Dreamer is in New Zealand Open Source Awards finalists"
 description:  "Deep Dreamer is in the NZOSA 2018 People's choice category."
 date:         2018-08-29
 categories:   deepdreamer nzosa newzealand nz opensource
