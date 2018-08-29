@@ -52,7 +52,7 @@ running.
 I spend mostly a half of my weekend developing this game. With all the skills
 that I learned doing that, I'm pretty happy with my effort.
 
-## Refences
+## References
 * [Github repository][github-13kars]
 * [JS13K Games entry][js13k-13kars]
 
