@@ -6,7 +6,7 @@ date:         2018-08-29
 categories:   deepdreamer nzosa newzealand nz opensource
 image:        /images/2018-08-29-nzosa.png
 ---
-[![NZOSA!](/images/2018-08-29-nzosa.png "NZOSA")][vote]
+[![NZOSA](/images/2018-08-29-nzosa.png "NZOSA")][vote]
 
 **[Deep Dreamer][deepdreamer]** has been selected for **New Zealand Open Source
 Awards** ([NZOSA][nzosa]) 2018 People's Choice Awards category.
