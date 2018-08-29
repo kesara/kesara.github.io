@@ -1,7 +1,7 @@
 ---
 layout:       post
-title:        "My JS13KGames 2018 Entry: 13Kars"
-description:  "I made a simple car game for JS13KGames 2018."
+title:        "My JS13K Games 2018 Entry: 13Kars"
+description:  "I made a simple car game for JS13K Games 2018."
 date:         2018-08-29 21:21:21
 categories:   javascript js js13k game foss
 image:        /images/2018-08-29-13kars.png
