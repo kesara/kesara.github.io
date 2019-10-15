@@ -13,4 +13,4 @@ and free culture.
 I'm just another sentient entity who loves FOSS, computer programming,
 information security, music, video games, photography and playing guitar.
 
-For my resume, see [resume](/resume/).
+For my CV/Résumé see [here](/cv/).
