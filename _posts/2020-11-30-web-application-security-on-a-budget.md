@@ -11,9 +11,10 @@ categories:   information security infosec web applications
 For a small business, information security mishap can be fatal blow to the
 business. When you don't have budget do annual penetration tests and keep a
 dedicated set of engineers to maintain and look after your systems it might be
-tough task to provide a secure online service to your customers. In this blog
-post I'm trying to provides some tips on keeping your online services secured
-with on a very low budget.
+tough task to provide a secure online service to your customers.
+
+In this blog post, I'm providing some tips on keeping your online services
+secured with on a very low budget.
 
 ## Passwords
 First things first use a [password manager](https://www.cert.govt.nz/individuals/guides/getting-started-with-cyber-security/keep-your-data-safe-with-a-password-manager/) to keep your passwords for different services like emails,
