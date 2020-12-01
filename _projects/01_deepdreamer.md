@@ -1,5 +1,5 @@
 ---
-layout:         page
+layout:         project
 title:          DeepDreamer
 description:    >
     Deep Dreamer is an easy to configure free open source Python program that

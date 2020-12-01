@@ -1,5 +1,5 @@
 ---
-layout:         page
+layout:         project
 title:          Fuzz Ball by Fake Industries 
 description:    Fuzz ball is an open source VST audio plugin written in Rust.
 permalink:      /projects/fuzzball
