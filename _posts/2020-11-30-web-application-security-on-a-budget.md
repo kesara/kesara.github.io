@@ -3,10 +3,10 @@ layout:       post
 title:        Web Application Security on a Budget
 description:  Tips for running secured web application for a small business.
 date:         2020-11-30 23:54:23
-image:        /images/img_0006_20130131_the_news_bangkok.png
+image:        /images/2020-11-30-img_0006_20130131_the_news_bangkok.png
 categories:   information security infosec web applications
 ---
-[![The News - Suvarnabhumi Airport, Bangkok](/images/img_0006_20130131_the_news_bangkok.png)](https://www.flickr.com/photos/kesara_rathnayake/8515398094/)
+[![The News - Suvarnabhumi Airport, Bangkok](/images/2020-11-30-img_0006_20130131_the_news_bangkok.png)](https://www.flickr.com/photos/kesara_rathnayake/8515398094/)
 
 For a small business, information security mishap can be fatal blow to the
 business. When you don't have budget do annual penetration tests and keep a
