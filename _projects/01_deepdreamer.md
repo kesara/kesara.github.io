@@ -1,7 +1,10 @@
 ---
 layout:         page
 title:          DeepDreamer
-description:    About DeepDreamer free open source software (FOSS) project
+description:    >
+    Deep Dreamer is an easy to configure free open source Python program that
+    make use of Googles’ DeepDream. It supports JPEG creation, Animated GIF
+    creation and video creation in MP4 format.
 permalink:      /projects/deepdreamer
 image:          /images/deepdreamer_dream_aa.jpg
 ---
