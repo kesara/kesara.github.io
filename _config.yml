@@ -1,8 +1,8 @@
 # Site settings
-title: frequency
+title: fq.nz
 email: kesara@fq.nz
 description: > # this means to ignore newlines until "baseurl:"
-  frequency is a blog about computer programming, GNU/Linux, AI (Artificial
+  fq.nz is a blog about computer programming, GNU/Linux, AI (Artificial
   Intellignece), FOSS (Free Open Source Software), privacy, information
   security and free culture.
 baseurl: "" # the subpath of your site, e.g. /blog/
