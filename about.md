@@ -12,5 +12,3 @@ and free culture.
 # About Me
 I'm just another sentient entity who loves FOSS, computer programming,
 information security, music, video games, photography and playing guitar.
-
-For my CV/Résumé see [here](/cv/).
