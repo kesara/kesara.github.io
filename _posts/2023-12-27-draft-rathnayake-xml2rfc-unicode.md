@@ -2,7 +2,7 @@
 layout:       post
 title:        "Internet-Draft: draft-rathnayake-xml2rfc-unicode"
 description:  "I-D about how xml2rfc outputs various Unicode characters"
-date:         2023-12-27 23:23:23
+date:         2023-12-27 23:23:23 +1300
 categories:   internet-draft i-d draft xml2rfc ietf
 ---
 
