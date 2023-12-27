@@ -8,7 +8,6 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://fq.nz/" # the base hostname & protocol for your site
 image: "/images/logo.png"
-twitter_username: K3SARA
 github_username:  kesara
 
 # Build settings
