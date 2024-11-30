@@ -2,7 +2,7 @@
 layout:       post
 title:        Lightning Talk - How to create your own RFC
 description:  My lightning talk at PyCon AU 2024
-date:         2024-11-31 00:36:00
+date:         2024-11-30 00:36:00
 categories:   python lightning talk ietf rfc internet-drafts xml2rfc
 ---
 
