@@ -1,0 +1,3 @@
+Sitemap: https://fq.nz/sitemap.xml
+User-agent: *
+Disallow:
