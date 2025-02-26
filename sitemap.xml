@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://fq.nz/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>https://fq.nz/about/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fq.nz/projects/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://fq.nz/feed.xml</loc>
+    <changefreq>daily</changefreq>
+  </url>
+</urlset>
