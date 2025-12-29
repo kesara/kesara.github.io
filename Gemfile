@@ -1,7 +1,8 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+gem 'jekyll'
+gem 'logger'
 
 group :test do
   gem 'bundler-audit'
-  gem "webrick"
+  gem 'webrick'
 end
